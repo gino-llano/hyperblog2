@@ -1,5 +1,6 @@
 Linea 1 del archivo
 
-Linea 2 del archivo
+Linea 2 de el archivo,
+más contenido
 
 Linea 3 del archivo
