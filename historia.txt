@@ -4,4 +4,6 @@ Linea 2 del archivo
 
 Master 1
 
+Master 2
+
 Linea 3 del archivo modificada
